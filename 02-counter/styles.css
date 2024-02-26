@@ -1,0 +1,13 @@
+.container {
+  display: grid;
+  place-items: center;
+}
+
+.btn {
+  letter-spacing: 0.1rem;
+  margin: 7px;
+}
+.btn:hover {
+  background-color: rgb(41, 39, 39);
+  color: white;
+}
